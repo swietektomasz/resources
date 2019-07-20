@@ -1,0 +1,9 @@
+{
+  "name": "resources-package",
+  "version": "1.0.0",
+  "description": "Resources useful when developing frontend applications",
+  "main": "index.js",
+  "repository": "https://github.com/swietektomasz/resources.git",
+  "author": "Tomasz Swietek",
+  "license": "MIT"
+}
